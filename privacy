@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Information Collection and Use</h2>
+            <p>When you interact with our service via WhatsApp, we collect the messages you send to us to provide a response. We do not share this information with third parties except as necessary to provide the service (e.g., cloud hosting services).</p>
+        </section>
+        <section>
+            <h2>User Rights</h2>
+            <p>You have the right to access, amend, and delete your personal information. For any requests, please contact us at <strong>info@yourapp.com</strong>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Return to <a href="index.html">Home</a></p>
+    </footer>
+</body>
+</html>
